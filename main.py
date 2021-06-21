@@ -8,8 +8,8 @@ print('''
 /____/_/ /_/_/  |_/_/ /_____/\____/\033[m
                                       ''')
                                       
-print("  \033[36mCOLE O TOKEN SE N NAO IRA FUNCIONAR\033m")
-print("   A FERRAMENTA N RECONHECE SE ESTA CERTO O TOKEN")
+print("ESTEJA NO SERVIDOR QUE VOCÊ QUER FLOODAR")
+print("   A FERRAMENTA NÃO RECONHECE SE ESTA CERTO O TOKEN")
 id =	str(input("ID DO CHAT: "))
 token = str(input("TOKEN: "))
 msg = str(input("MENSAGEM: "))
